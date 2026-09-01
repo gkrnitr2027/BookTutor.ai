@@ -1,0 +1,8 @@
+langchain-core
+langchain-text-splitters
+langchain_huggingface
+docling
+langchain_community
+langchain_openai
+langchain
+faiss-cpu
